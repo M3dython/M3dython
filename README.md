@@ -56,16 +56,6 @@ I'm M3dython, a smart contract auditor and tech enthusiast.
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=M3dython&show_icons=true&theme=tokyonight&rank_icon=github" alt="M3dython's GitHub Stats" />&nbsp;&nbsp;&nbsp;    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3dython&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
 | Contest | High risk | Medium risk | Security Report | Ranking | Team Name |
