@@ -1,6 +1,6 @@
 # Hi there, I'm M3dython 👋
 
-## Blockchain Security Researcher | Smart Contract Auditor | Python Enthusiast
+## Blockchain Security Researcher | Smart Contract Auditor | Solidity Developer
 
 Hey 👋, I’m M3dython — a blockchain security researcher and smart contract auditor focused on identifying and mitigating vulnerabilities in decentralized protocols.
 
