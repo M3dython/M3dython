@@ -1,10 +1,10 @@
 # Hi there, I'm M3dython 👋
 
-## Blockchain Security Researcher | Smart Contract Auditor | Solidity Developer
+## Blockchain Security Researcher | Smart Contract Auditor | Full Stack Developer
 
 Hey 👋, I’m M3dython — a blockchain security researcher and smart contract auditor focused on identifying and mitigating vulnerabilities in decentralized protocols.
 
-I actively compete in top-tier audit contests like Sherlock, where I’ve earned recognition for identifying critical vulnerabilities across various protocols. My mission is to help projects launch and scale securely by uncovering and mitigating risks before they’re exploited. With deep experience in Solidity, Python, and a strong track record in public audits, I provide clear, actionable insights that strengthen your protocol’s security posture.
+I actively compete in top-tier audit contests like Sherlock, where I’ve earned recognition for identifying critical vulnerabilities across various protocols. My mission is to help projects launch and scale securely by uncovering and mitigating risks before they’re exploited. With deep experience in Solidity, Javascript, and a strong track record in public audits, I provide clear, actionable insights that strengthen your protocol’s security posture.
 
 If you're looking to safeguard your smart contracts or need a reliable auditor for your next launch, I’m available for private audits. You can reach out through any of my socials — and feel free to explore my past findings and contest results below.
 
@@ -17,9 +17,9 @@ I'm M3dython, a smart contract auditor and tech enthusiast.
 * 🌍 I'm based in Brazil
 * 🔭 I’m currently working on: Deepening my expertise in advanced smart contract security patterns.
 * 🌱 I’m currently learning: Solidity Fuzzing and Formal Verification.
-* 👯 I’m looking to collaborate on: Open Source Python projects, Web Dev tools, and smart contract security research.
+* 👯 I’m looking to collaborate on: Open Source Javascript projects, Web Dev tools, and smart contract security research.
 * 🤔 I’m looking for help with: Complex security challenges in DeFi protocols.
-* 💬 Ask me about: Python, Linux, smart contract auditing, and blockchain security.
+* 💬 Ask me about: Javascript, Linux, smart contract auditing, and blockchain security.
 * 📫 How to reach me:
   * LinkedIn: [https://www.linkedin.com/in/0samalves/](https://www.linkedin.com/in/0samalves/)
   * Twitter: [@m3dython](https://twitter.com/m3dython)
