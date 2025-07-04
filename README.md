@@ -21,50 +21,59 @@ I'm M3dython, a smart contract auditor and tech enthusiast.
 * 🤔 I’m looking for help with: Complex security challenges in DeFi protocols.
 * 💬 Ask me about: Javascript, Linux, smart contract auditing, and blockchain security.
 * 📫 How to reach me:
-  * LinkedIn: [https://www.linkedin.com/in/0samalves/](https://www.linkedin.com/in/0samalves/)
-  * Twitter: [@m3dython](https://twitter.com/m3dython)
-  * Discord: [m3dython](https://discord.com/users/m3dython)
-  * Email: [m3dython@gmail.com](mailto:m3dython@gmail.com)
+    * LinkedIn: [https://www.linkedin.com/in/0samalves/](https://www.linkedin.com/in/0samalves/)
+    * Twitter: [@m3dython](https://twitter.com/m3dython)
+    * Discord: [m3dython](https://discord.com/users/m3dython)
+    * Email: [m3dython@gmail.com](mailto:m3dython@gmail.com)
 * ⚡ Fun fact: I find uncovering subtle logical flaws in Web3 protocols incredibly rewarding.
 
 ---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://github.com/M3dython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/0samalves/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://twitter.com/m3dython" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://discord.com/users/m3dython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
-    <a href="mailto:m3dython@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+    <a href="https://github.com/M3dython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/0samalves/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://twitter.com/m3dython" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://discord.com/users/m3dython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
+    <a href="mailto:m3dython@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">    
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<p align="center">      
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
 ---
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
-| Contest | High risk | Medium risk | Security Report | Ranking | Team Name |
-| :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Burve (Apr '25)](https://audits.sherlock.xyz/contests/858) | 3 | - | [Report on GitHub](https://github.com/sherlock-audit/2025-04-burve) | 8th | m3dython |
-| [PinLink: RWA-Tokenized DePIN Marketplace (Mar '25)](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace) | - | - | [Report on GitHub](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/blob/main/167.md) | 39th | m3dython |
-| [Yieldoor (Feb '25)](https://audits.sherlock.xyz/contests/791) | 1 | 1 | [Report on GitHub](https://github.com/sherlock-audit/2025-02-yieldoor) | 15th | m3dython |
+| Contest                                                                                              | High risk | Medium risk | Security Report                                                                                  | Ranking | Team Name |
+| :--------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-----------------------------------------------------------------------------------------------: | :-----: | :-------: |
+| [LEND (May '25)](https://audits.sherlock.xyz/contests/908)                            |     4     |      1      | [Report on GitHub](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues)                  |  52nd   | m3dython  |
+| [Burve (Apr '25)](https://audits.sherlock.xyz/contests/858)                                          |     3     |      -      | [Report on GitHub](https://github.com/sherlock-audit/2025-04-burve)                               |   8th   | m3dython  |
+| [PinLink: RWA-Tokenized DePIN Marketplace (Mar '25)](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace) |     -     |      -      | [Report on GitHub](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/blob/main/167.md) |  39th   | m3dython  |
+| [Yieldoor (Feb '25)](https://audits.sherlock.xyz/contests/791)                                       |     1     |      1      | [Report on GitHub](https://github.com/sherlock-audit/2025-02-yieldoor)                            |  15th   | m3dython  |
 
 ### Key Audit Findings
+
+**May '25 - LEND**
+* **Ranking:** #52
+* **Finding 1:** CrossChainRouter will use incorrect collateral amount and token for debt repayment during cross-chain liquidation, disrupting the process for the protocol, liquidators, and borrowers.
+* **Finding 2:** Incorrect Liquidation Check in `_checkLiquidationValid` May Lead to Unfair Liquidations or Prevention of Valid Liquidations.
+* **Finding 3:** Incorrect Logic in `borrowWithInterest` Leads to Understated Cross-Chain Debt and Risk of Protocol Insolvency.
+* **Finding 4:** CoreRouter Prone to Fund Depletion or Trapping Due to Miscalculated Redemption Payouts.
+* **Finding 5:** Liquidator may under-liquidate positions due to `maxClose` using incompletely accrued balance for settlement.
 
 **Apr '25 - Burve**
 * **Ranking:** #8
