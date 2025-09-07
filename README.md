@@ -14,7 +14,6 @@ If you're looking to safeguard your smart contracts or need a reliable auditor f
 
 I'm M3dython, a smart contract auditor and tech enthusiast.
 
-* 🌍 I'm based in Brazil
 * 🔭 I’m currently working on: Deepening my expertise in advanced smart contract security patterns.
 * 🌱 I’m currently learning: Solidity Fuzzing and Formal Verification.
 * 👯 I’m looking to collaborate on: Open Source Javascript projects, Web Dev tools, and smart contract security research.
