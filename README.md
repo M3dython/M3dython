@@ -23,6 +23,7 @@ I'm M3dython, a smart contract auditor and tech enthusiast.
     * LinkedIn: [https://www.linkedin.com/in/0samalves/](https://www.linkedin.com/in/0samalves/)
     * Twitter: [@m3dython](https://twitter.com/m3dython)
     * Email: [m3dython@gmail.com](mailto:m3dython@gmail.com)
+    * Website: [m3dython.com](https://www.m3dython.com)
 * ⚡ Fun fact: I find uncovering subtle logical flaws in Web3 protocols incredibly rewarding.
 
 ---
