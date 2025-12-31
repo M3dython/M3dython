@@ -1,99 +1,96 @@
-# Hi there, I'm M3dython 👋
+<h1 align="center">Hi there, I'm M3dython 👋</h1>
 
-## Blockchain Security Researcher | Smart Contract Auditor | Full Stack Developer
+<h3 align="center">
+  Blockchain Security Researcher | Smart Contract Auditor | Full Stack Developer
+</h3>
 
-Hey 👋, I’m M3dython — a blockchain security researcher and smart contract auditor focused on identifying and mitigating vulnerabilities in decentralized protocols.
-
-I actively compete in top-tier audit contests like Sherlock, where I’ve earned recognition for identifying critical vulnerabilities across various protocols. My mission is to help projects launch and scale securely by uncovering and mitigating risks before they’re exploited. With deep experience in Solidity, Javascript, and a strong track record in public audits, I provide clear, actionable insights that strengthen your protocol’s security posture.
-
-If you're looking to safeguard your smart contracts or need a reliable auditor for your next launch, I’m available for private audits. You can reach out through any of my socials — and feel free to explore my past findings and contest results below.
-
-* Sherlock Profile: [m3dython](https://audits.sherlock.xyz/watson/m3dython)
-
----
-
-I'm M3dython, a smart contract auditor and tech enthusiast.
-
-* 🔭 I’m currently working on: Deepening my expertise in advanced smart contract security patterns.
-* 🌱 I’m currently learning: Solidity Fuzzing and Formal Verification.
-* 👯 I’m looking to collaborate on: Open Source Javascript projects, Web Dev tools, and smart contract security research.
-* 🤔 I’m looking for help with: Complex security challenges in DeFi protocols.
-* 💬 Ask me about: Javascript, Linux, smart contract auditing, and blockchain security.
-* 📫 How to reach me:
-    * LinkedIn: [https://www.linkedin.com/in/0samalves/](https://www.linkedin.com/in/0samalves/)
-    * Twitter: [@m3dython](https://twitter.com/m3dython)
-    * Email: [m3dython@gmail.com](mailto:m3dython@gmail.com)
-    * Website: [m3dython.com](https://www.m3dython.com)
-* ⚡ Fun fact: I find uncovering subtle logical flaws in Web3 protocols incredibly rewarding.
-
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://github.com/M3dython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/0samalves/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://twitter.com/m3dython" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    </a>
-    <a href="mailto:m3dython@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://m3dython.com"><strong>🌐 m3dython.com</strong></a>
+</p>
+
+<p align="center">
+  <em>Identifying and mitigating vulnerabilities in decentralized protocols before they hit mainnet.</em>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">      
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
+### 👨‍💻 About Me
+
+I’m **M3dython**, a specialized Blockchain Security Researcher focused on DeFi protocol architecture. I actively compete in top-tier audit contests like **Sherlock**, where I’ve earned recognition for identifying High/Critical vulnerabilities in complex financial logic.
+
+My mission is to help projects scale securely. I bridge the gap between raw code and business logic to prevent treasury-draining exploits.
+
+* 🔭 **Focus:** Advanced smart contract security patterns & auditing.
+* 🌱 **Learning:** Solidity Fuzzing (Foundry/Echidna) and Formal Verification.
+* 🛡️ **Services:** Available for private audits and consultation.
+* ⚡ **Fun fact:** I find uncovering subtle logical flaws in Web3 protocols incredibly rewarding.
+
+---
+
+### 📬 Connect & Socials
+
+<p align="center">
+  <a href="https://m3dython.com"><img src="https://img.shields.io/badge/Portfolio-m3dython.com-blue?style=for-the-badge&logo=firefox" alt="Website"></a>
+  <a href="https://twitter.com/m3dython"><img src="https://img.shields.io/badge/Twitter-@m3dython-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/0samalves/"><img src="https://img.shields.io/badge/LinkedIn-Sam%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:m3dython@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
+### 🛠️ Languages & Tools
 
-| Contest                                                                                              | High risk | Medium risk | Security Report                                                                                  | Ranking | Team Name |
-| :--------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [LEND (May '25)](https://audits.sherlock.xyz/contests/908)                            |     4     |      1      | [Report on GitHub](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues)                  |  52nd   | m3dython  |
-| [Burve (Apr '25)](https://audits.sherlock.xyz/contests/858)                                          |     3     |      -      | [Report on GitHub](https://github.com/sherlock-audit/2025-04-burve)                               |   8th   | m3dython  |
-| [PinLink: RWA-Tokenized DePIN Marketplace (Mar '25)](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace) |     -     |      -      | [Report on GitHub](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/blob/main/167.md) |  39th   | m3dython  |
-| [Yieldoor (Feb '25)](https://audits.sherlock.xyz/contests/791)                                       |     1     |      1      | [Report on GitHub](https://github.com/sherlock-audit/2025-02-yieldoor)                            |  15th   | m3dython  |
-
-### Key Audit Findings
-
-**May '25 - LEND**
-* **Ranking:** #52
-* **Finding 1:** CrossChainRouter will use incorrect collateral amount and token for debt repayment during cross-chain liquidation, disrupting the process for the protocol, liquidators, and borrowers.
-* **Finding 2:** Incorrect Liquidation Check in `_checkLiquidationValid` May Lead to Unfair Liquidations or Prevention of Valid Liquidations.
-* **Finding 3:** Incorrect Logic in `borrowWithInterest` Leads to Understated Cross-Chain Debt and Risk of Protocol Insolvency.
-* **Finding 4:** CoreRouter Prone to Fund Depletion or Trapping Due to Miscalculated Redemption Payouts.
-* **Finding 5:** Liquidator may under-liquidate positions due to `maxClose` using incompletely accrued balance for settlement.
-
-**Apr '25 - Burve**
-* **Ranking:** #8
-* **Finding 1:** Zero Tax Exploitation in Withdrawal Function
-* **Finding 2:** Contract logic flaw will mismatch internal and external vault shares, potentially trapping user funds.
-* **Finding 3:** Attacker can steal user funds via ERC4626 inflation attack on underlying vault.
-
-**Mar '25 - PinLink: RWA-Tokenized DePIN Marketplace**
-* **Ranking:** #39
-* **Finding:** Centralized Oracle updates can be front run causing users to get paid less than intended.
-
-**Feb '25 - Yieldoor**
-* **Ranking:** #15
-* **Finding 1:** Uninitialized `feeRecipient` will divert protocol fees to the zero address, impacting protocol revenue.
-* **Finding 2:** A malicious actor will exploit the miscalculation, impacting leveraged position holders.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,python,js,ts,rust,foundry,vscode,git,linux&perline=10" />
+</p>
 
 ---
 
-## Damn Vulnerable DeFi Solutions
+### 🏆 Audit Track Record
 
-Explore my solutions to the challenges in Damn Vulnerable DeFi:
-* [M3dython/DAMN-DEFI](https://github.com/M3dython/DAMN-DEFI)
+**Primary Platform:** [Sherlock Profile](https://audits.sherlock.xyz/watson/m3dython)
+
+| Contest | High | Medium | Report | Rank |
+| :--- | :---: | :---: | :---: | :---: |
+| **[LEND (May '25)](https://audits.sherlock.xyz/contests/908)** | 4 | 1 | [Read Report](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues) | **52nd** |
+| **[Burve (Apr '25)](https://audits.sherlock.xyz/contests/858)** | 3 | - | [Read Report](https://github.com/sherlock-audit/2025-04-burve) | **8th** |
+| **[PinLink RWA (Mar '25)](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace)** | - | - | [Read Report](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/blob/main/167.md) | **39th** |
+| **[Yieldoor (Feb '25)](https://audits.sherlock.xyz/contests/791)** | 1 | 1 | [Read Report](https://github.com/sherlock-audit/2025-02-yieldoor) | **15th** |
+
+<br>
+
+### 🔍 Detailed Findings Breakdown
+
+<details>
+<summary><strong>📂 Click to expand specific vulnerability details</strong></summary>
+
+#### LEND Protocol (May '25)
+* **Finding 1:** CrossChainRouter uses incorrect collateral/token data during cross-chain liquidations, disrupting repayment logic.
+* **Finding 2:** `_checkLiquidationValid` logic flaw allows unfair liquidations or prevents valid ones.
+* **Finding 3:** Interest logic in `borrowWithInterest` understates cross-chain debt, risking insolvency.
+* **Finding 4:** CoreRouter prone to fund depletion due to miscalculated redemption payouts.
+* **Finding 5:** Liquidators may under-liquidate positions due to `maxClose` using incomplete accrued balances.
+
+#### Burve Protocol (Apr '25)
+* **Finding 1:** Zero Tax Exploitation mechanism found in Withdrawal Function.
+* **Finding 2:** Internal vs External vault share mismatch potentially traps user funds.
+* **Finding 3:** **Critical:** ERC4626 inflation attack vector identified on underlying vault.
+
+#### PinLink DePIN (Mar '25)
+* **Finding:** Centralized Oracle updates vulnerable to front-running, causing user payout loss.
+
+#### Yieldoor (Feb '25)
+* **Finding 1:** Uninitialized `feeRecipient` diverts protocol fees to zero address (revenue loss).
+* **Finding 2:** Calculation error impacts leveraged position holders.
+
+</details>
 
 ---
+
+### 🎓 Educational & Open Source
+* **Damn Vulnerable DeFi Solutions:** My personal write-ups and solutions for the DVD wargame. [View Repository](https://github.com/M3dython/DAMN-DEFI)
+
+---
+<p align="center">
+  <em>© 2025 M3dython. Open for audits and collaboration.</em>
+</p>
