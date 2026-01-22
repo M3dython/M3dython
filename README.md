@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm M3dython 👋</h1>
 
+<p align="center">
+  <img src="https://sherlock-files.ams3.digitaloceanspaces.com/profile_images/d9d4d740-d579-4499-b0f1-7b3fd2199f28.png" width="150" height="150" style="border-radius: 50%;" alt="M3dython Profile">
+</p>
+
 <h3 align="center">
-  Blockchain Security Researcher | Smart Contract Auditor | Full Stack Developer
+  Security Researcher | Smart Contract Auditor
 </h3>
 
 <p align="center">
@@ -9,14 +13,14 @@
 </p>
 
 <p align="center">
-  <em>Identifying and mitigating vulnerabilities in decentralized protocols before they hit mainnet.</em>
+  <em>I don't just hunt bugs; I secure Protocol Solvency. Specializing in advanced business logic exploits and economic attack vectors.</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **M3dython**, a specialized Blockchain Security Researcher focused on DeFi protocol architecture. I actively compete in top-tier audit contests like **Sherlock**, where I’ve earned recognition for identifying High/Critical vulnerabilities in complex financial logic.
+I'm **M3dython**, a specialized Blockchain Security Researcher focused on DeFi protocol architecture. I actively compete in top-tier audit contests like **Sherlock**, where I've earned recognition for identifying High/Critical vulnerabilities in complex financial logic.
 
 My mission is to help projects scale securely. I bridge the gap between raw code and business logic to prevent treasury-draining exploits.
 
@@ -24,6 +28,26 @@ My mission is to help projects scale securely. I bridge the gap between raw code
 * 🌱 **Learning:** Solidity Fuzzing (Foundry/Echidna) and Formal Verification.
 * 🛡️ **Services:** Available for private audits and consultation.
 * ⚡ **Fun fact:** I find uncovering subtle logical flaws in Web3 protocols incredibly rewarding.
+
+---
+
+### 📊 Sherlock Stats
+
+<p align="center">
+  <a href="https://audits.sherlock.xyz/watson/m3dython">
+    <img src="https://img.shields.io/badge/High%20Findings-8-red?style=for-the-badge" alt="High Findings">
+    <img src="https://img.shields.io/badge/Medium%20Findings-4-orange?style=for-the-badge" alt="Medium Findings">
+    <img src="https://img.shields.io/badge/Total%20Earnings-$3.33K-green?style=for-the-badge" alt="Total Earnings">
+    <img src="https://img.shields.io/badge/All%20Time%20Rank-%231003-blue?style=for-the-badge" alt="All Time Rank">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Payouts-10x-purple?style=flat-square" alt="Payouts">
+  <img src="https://img.shields.io/badge/Top%2010-3x-gold?style=flat-square" alt="Top 10">
+  <img src="https://img.shields.io/badge/Top%2025-5x-silver?style=flat-square" alt="Top 25">
+  <img src="https://img.shields.io/badge/Top%2050-9x-bronze?style=flat-square" alt="Top 50">
+</p>
 
 ---
 
@@ -50,12 +74,18 @@ My mission is to help projects scale securely. I bridge the gap between raw code
 
 **Primary Platform:** [Sherlock Profile](https://audits.sherlock.xyz/watson/m3dython)
 
-| Contest | High | Medium | Report | Rank |
-| :--- | :---: | :---: | :---: | :---: |
-| **[LEND (May '25)](https://audits.sherlock.xyz/contests/908)** | 4 | 1 | [Read Report](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues) | **52nd** |
-| **[Burve (Apr '25)](https://audits.sherlock.xyz/contests/858)** | 3 | - | [Read Report](https://github.com/sherlock-audit/2025-04-burve) | **8th** |
-| **[PinLink RWA (Mar '25)](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace)** | - | - | [Read Report](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/blob/main/167.md) | **39th** |
-| **[Yieldoor (Feb '25)](https://audits.sherlock.xyz/contests/791)** | 1 | 1 | [Read Report](https://github.com/sherlock-audit/2025-02-yieldoor) | **15th** |
+| Contest | Findings | Earnings | Rank |
+| :--- | :---: | :---: | :---: |
+| **Privacy Cash (Nov '25)** | - | 9.52 USDC | **#49** |
+| **Saffron Fixed Income Vaults (Oct '25)** | - | 13.77 USDC | **#50** |
+| **3Jane (Oct '25)** | - | 77.00 USDC | **#18** |
+| **Yield Basis (Aug '25)** | 1 | 69.47 USDC | **#10** |
+| **DeBank (Jul '25)** | - | 465.45 USDC | **#7** |
+| **DODO Cross-Chain DEX (Jun '25)** | 1 | 75.65 USDC | **#39** |
+| **LEND (May '25)** | 5 | 41.26 USDC | **#52** |
+| **Burve (Apr '25)** | 3 | 2,509.74 USDC | **#8** |
+| **PinLink RWA (Mar '25)** | - | 19.47 USDC | **#39** |
+| **Yieldoor (Feb '25)** | 2 | 48.21 USDC | **#15** |
 
 <br>
 
@@ -63,6 +93,12 @@ My mission is to help projects scale securely. I bridge the gap between raw code
 
 <details>
 <summary><strong>📂 Click to expand specific vulnerability details</strong></summary>
+
+#### Yield Basis (Aug '25)
+* **Finding:** Admin will brick gauge controller configuration for the protocol.
+
+#### DODO Cross-Chain DEX (Jun '25)
+* **Finding:** Any External Actor will Steal Approved ZRC20 Tokens from `GatewayTransferNative` Contract.
 
 #### LEND Protocol (May '25)
 * **Finding 1:** CrossChainRouter uses incorrect collateral/token data during cross-chain liquidations, disrupting repayment logic.
@@ -75,9 +111,6 @@ My mission is to help projects scale securely. I bridge the gap between raw code
 * **Finding 1:** Zero Tax Exploitation mechanism found in Withdrawal Function.
 * **Finding 2:** Internal vs External vault share mismatch potentially traps user funds.
 * **Finding 3:** **Critical:** ERC4626 inflation attack vector identified on underlying vault.
-
-#### PinLink DePIN (Mar '25)
-* **Finding:** Centralized Oracle updates vulnerable to front-running, causing user payout loss.
 
 #### Yieldoor (Feb '25)
 * **Finding 1:** Uninitialized `feeRecipient` diverts protocol fees to zero address (revenue loss).
