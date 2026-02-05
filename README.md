@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm M3dython 👋</h1>
 
 <p align="center">
-  <img src="https://sherlock-files.ams3.digitaloceanspaces.com/profile_images/d9d4d740-d579-4499-b0f1-7b3fd2199f28.png" width="150" height="150" style="border-radius: 50%;" alt="M3dython Profile">
+  <img src="[https://avatars.githubusercontent.com/u/68754219?s=96&v=4](https://avatars.githubusercontent.com/u/68754219?s=96&v=4)" width="150" height="150" style="border-radius: 50%;" alt="M3dython Profile">
 </p>
 
 <h3 align="center">
