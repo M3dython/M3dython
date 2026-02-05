@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm M3dython 👋</h1>
 
-<p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/68754219?s=96&v=4](https://avatars.githubusercontent.com/u/68754219?s=96&v=4)" width="150" height="150" style="border-radius: 50%;" alt="M3dython Profile">
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/68754219?s=96&v=4" width="150" height="150" alt="M3dython Profile">
+</div>
 
 <h3 align="center">
   Security Researcher | Smart Contract Auditor
